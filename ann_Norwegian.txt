@@ -1,0 +1,279 @@
+[center][img]http://i.imgur.com/aTK3KYV.png[/img]
+
+[size=10pt][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Expanse[/url] is a decentralized cryptographic information, application, and contract platform. It is among the first of such to be fairly distributed, democratically controlled, and community managed. Through the use of smart contracts and decentralized blockchain technology, it is run not by any one individual or group, but by the users of Expanse itself. The project is organized, managed, and operated through a decentralized organization leveraging direct influence over the platform and its future to those that matter most: our community. New features, integration, and core modifications of the expanse platform and organization can be nominated, voted on, and implemented according to the collective opinion.[/size]
+[/center]
+
+[center]
+[table]
+[tr]
+[td][/td]
+	[td][center][img]http://i.imgur.com/Xyveaf3.png[/img][/center][/td]
+	[td][list]
+[li]Algoritme: Dagger[/li]
+[li]Blokk Gevinst: 8[/li]
+[li]Drivstoff Grense: 31415926[/li]
+[li]Blokk Mål: 60 seconds[/li]
+[li]Lytte Port: 42786[/li]
+[li]RPC Port: 9656[/li]
+[li]Reserve: 11 Million (Community Managed)[/li]
+[li][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Whitepaper[/url][/li]
+[/list][/td]
+[/tr]
+[tr][td][/td]
+[td]
+
+
+[center][b][u]Start detaljer[/u][/b][/center]
+
+Vi kommer til å holde en offentlig testnett start den 10/9/2015.
+Målet med denne testen er å tillate brukere å komfortabelt
+installere, konfigurere, og teste programmet, forberede 
+gravere, og bli kjent med Expanse. Vi vill
+at alle skal ha en rettferdig start og ha muligheten
+til å grave Expanse fra starten. Dette er kun for testing
+og alt som graves opp på testnettet forsvinner når vi slipper
+det fulle programmet.
+
+Expanse vill offisielt starte 14/9/2015 00:00 UTC.
+Dette vill være den ekte og varende blokkjeden og 
+den fulle utgivelsen av Expanse.
+[td][center][img]http://i.imgur.com/9bT0NXA.png[/img][/center][/td]
+[/tr]
+[tr][td][/td]
+[td][center][img]http://i.imgur.com/IIAplvH.png[/img][/center][/td]
+[td]
+Expanse prosjektet drives av en desentralisert organisasjon som
+oppererer på Expanse blokkjeden. Denne desentraliserte enhten
+er ansvarlige for store bestemmelser slik som å bestemme hvilke
+funksjoner eller oppdateringer som skal fokuseres av utviklere,
+administrere prosjektets opererende eiendeler/reserve midler, og mer.
+Den består av tre divisjoner, hver med lik kraft til å stemme på
+bestemelser omhandlende Expanse.
+[/td]
+[/tr]
+[tr][td][/td]
+[td]
+[b]Expanse Utviklings Kjerne[/b]
+Ekspanse Utviklings kjerne er sammensatt av prosjektets
+grunnleggere og kjerne utviklere. Disse individene er 
+talentfulle, kunskapsrike med divers teknisk erfaring
+relatert til blokkjede teknologi.
+
+[b]Expanse Kolektivt Samfund[/b]
+Expanse samfunnet er sjelen av prosjektet: Folket som
+bruker programmet. Den er laget av de som holder ekspanse.
+Alle hele ekspanse teller som en stemme del. Å holde mindre
+enn 1 Exp teller ikke.
+
+[b]Expanse Rådgiving[/b]
+En tredjepart gruppe sammensatt av individer valgt
+likt fra utviklerkjernen og samfunnet.
+Disse burde være klarert og kjente medlemer av 
+bitcoin/kryptovalutta samfunnet med lange gode etablerte
+omdømme. Ideelt individer som har en sterk teknisk bakgrunn
+og en forståelse av blokkjede teknologi, som har muligheten
+til å gi en godt informert stemme på teknisk og finanse saker.[/td]
+[td][img]http://i.imgur.com/nd7nACP.png[/img]
+[/td]
+[/tr]
+[/table]
+[/center]
+
+[center][b][u][size=12pt]Expanse Kjerne lag[/size][/u][/b]
+Ekspanse laget består av kvalifiserte, erfarne og professionelle utviklere og industri figurer med lang historie i flere ledende prosjekter, firmaer og samfund relatert til kryptovalutta og blokkjede teknologi.
+[img]http://i.imgur.com/GuxJ59R.png[/img][/center]
+
+[center][b][u]Samfund og Sosialt[/u][/b]
+Expanse er ett samfund basert prosjekt, så den beste måten å delta er å komme og snakke med oss!
+Du kan nå brukere og utviklere av Expanse gjennom flere forskjellige platformer:
+
+[table][tr]
+[td][center][u]Reddit[/u]
+[img]http://i.imgur.com/F8lrV6r.png[/img]
+[/center][/td]
+[td][center][u]Facebook[/u]
+[img]http://i.imgur.com/hT9gqRe.png[/img]
+[/center][/td]
+[td][center][u]Twitter[/u]
+[img]http://i.imgur.com/2DjHrEc.png[/img]
+[/center][/td]
+[/tr][tr][td][url=http://www.reddit.com/r/expanseofficial]/r/expanseofficial[/url][/td][td]             [url=http://www.facebook.com/groups/expanseofficial]groups/expanseofficial[/url]         [/td][td][url=http://www.twitter.com/expanseofficial]twitter.com/expanseofficial[/url][/td][/tr]
+[/table]
+
+[table][tr][td][center][u]IRC[/u]
+Aktive daglige samtaler
+fra expanse samfunnet.
+[img]http://i.imgur.com/Rq9FlNH.png[/img]
+#expanse på irc.freenode.net[/center]
+[/td][td]           [/td]
+[td][center][u]Slack[/u]
+Det beste stedet å komme i kontakt
+med Expanse samfunnet er på slacken vår!
+[img]http://i.imgur.com/w4gUMZ8.png[/img]
+Besøk http://slack.expanse.tech/ for en invitasjon![/center]
+[/td][/tr][/table][/center]
+
+[center][img]http://i.imgur.com/991kdwC.png[/img][/center]
+
+Ofte stilte spørsmål: Vi vill oppdatere denne seksjonen en gang i blandt med svar til de vaneligste spørsmålene eller løsninger til de mest vanelige problemene. Denne FAQen er laget for denne tråden spesifikt, så sjekk ut FAQen på nettsiden vår for flere svar til vanelige spørsmål.
+
+[b]Q: Hva er forskjellen mellom expanse og lignende prosjekter?[/b]
+A: Den vikitigste forskjellen er att Expanse er ett samfunns rettet prosjekt. Store valg om design valg, operering, utviklings rute, investering og mer blir gjort av brukerne. Expanse har ingen ICO eller gruppesalg, bare en liten reserve som er kontrolert av samfunnet gjennom en desentralisert organisasjon kontrolert gjennom smarte kontrakter. Til forskjell fra andre prosjekter så er fremtiden av Expanse valgt av dens brukere, gravere, handlere og de som bare vil være en del av å forme fremtiden på en rettferdig og desentralisert måte.
+
+[b]Q: Når kan jeg laste ned programmet og/eller lese mer dokumentasjon?[/b]
+A: Vi vill kontinuerlig slippe oppdatert dokumentasjon op til og etter vårt offentlige testnettt og hovedslippet. Programmet vill bli tiljengelig for nedlasting på starten av det offentlige testnettet og oppdatert ofte. 
+
+[b]Q: Hva er forskjellen mellom offentlig testnett og hoved versjonen?[/b]
+A: Det offentlige testnettet er slik at alle kan installere, forberede seg og teste graving instillinger og klient program på forhånd av Expanse slippen. Dette vill skape en mer rettferdig og gjevnt distribuert start og tillate alle å være fult forberedt til å delta når vi starter. Testnettet er for testing, det kan restartes og testes på, og burde ikke bli sett på som stabilt over lengre tid. Hoved slippen er den faktiske utgivelsen av Expanse, og dette er når brukere og graver kan grave/forhandle ekte Expanse, Lge og utføre smarte kontrakter og lage hele platformer og teknologi.
+
+[b]Q: Kan jeg beholde exp-en min gjennom hoved-utgivelsen?[/b]
+A: Mynter som graves opp under testnettet blir ikke med over til hoved netverket. De kan være stabile på test nettet men test nettet er bare for å teste og vill ofte bli restartet etter diverse test sykler. Disse holder ingen verdi annet enn for testing.
+
+[b]Q: Jeg er en entusiast uten teknisk bakgrunn, hvordan kan jeg hjelpe?[/b]
+A: Du kan grave Expanse eller kjøpe expanse på utvekslingssider senere så fort det er tiljengelig. Du kan også fortelle ande om Expanse og prosjektet. Du kan aktivt dele dine meninger og stemme på store valg senere, og til og med annbefale mulige forandringer som du synes prosjektet burde fokusere på. Expanse handler om å høre på alle og være inklusiv, og bytte ett sterkt miljø gjennom rettferdighet og de kombinerte talentene og visjonene til alle de som vill være en del av det.
+
+[b]Q: Jeg er en utvikler, hvordan kan jeg hjelpe?[/b]
+A: Potensialet til Expanse er massiv, men applikasjoner fra dens kraft mangler. Hva trengs mest er DApp og Kontrakt utviklere. Slike tillegg går ikke uten gevinst; Expanse organisasjonen vill gi ut premier og insentiver for å støtte Dapp og kontrakt utviklere. For de som ønsker å delta på det offisielle prosjektet så leter vi etter og vill snart utlyse rettningslinjer i ett dokument for utviklere som ønsker å hjelpe. I mellomtiden kan du delta direkte i #dev kanalen på Expanse slack.
+
+[b]Q: Er det en ICO?[/b]
+A: Det er ingen ICO for for gruppestøtte. 
+
+[b]Q: Hva er reserven? Hvorfor er det en?[/b]
+A: Reserven er satt opp av midler administrert av Expanse organisasjonen. Disse reserve midlene er administrert direkte av den desentraliserte organisasjonen ved å bruke smarte kontrakter som kjører på Expanse. Organisasjonen's midler er låst inn i en kontrakt og gjort gradvis tiljengelig over tid. 10% av miljø reserven (1.1m exp) vill bli distribuert til Kjernen over tid for langtids arbeide og arbeidekostnader, med bare 10% av det totale tiljengelige på utgivelsen for å hjelpe med utvikling og for å betale orginale initiativer. Resten av reserven vill sakte bli distribuert til laget over ett år ved bruk av smarte kontrakter, de resterende 90% skal bli brukt på det Expanse organisasjonen bestemmer sammen.)
+
+[b]Q: Hvordan vet vi at reserven ikke blir dumpet på en utvekslingsside?[/b]
+A: Den største delen av reserven er kontrollert direkte av expanse organisasjonens desentraliserte enhet, og er låst i smarte kontrakter. All bruk av organisasjonens midler krever en enighet stemt av majoriteten mellom miljøet, utviklere og hjelpere. Det er ikke mulig å selle uten felles enighet. I tilleg så blir middlene distribuert over tid.
+
+[b][size=20pt]Hovednett instruksjoner[/size][/b]
+[b]Installere deps og make gexp[/b]
+
+[code]apt-get install git binutils bison gcc make libgmp3-dev
+bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+gvm install go1.4
+gvm use go1.4 --default
+git clone -b develop http://www.github.com/expanse-project/go-expanse.git  
+cd go-expanse
+make gexp[/code]
+
+[b]Derfra starter du klienten med genesis fila.[/b]
+
+[code]build/bin/gexp --genesis genesis.json[/code]
+
+[b]Avslutt og så lager du din første bruker.[/b]
+
+[code]build/bin/gexp account new[/code]
+
+[b]Så starter du den opp med en oppstartsnode[/b]
+
+[code]./gexp --bootnodes "enode://4055ec69e53df4bfecb95e3b65c28e4f2a1145a3bdc4d85d077b552248cf159951afd649f044783bebf48b902fbc0e96978c76236fd4ab3d5ef7d95d72b84ee5@[::]:42786" --rpc console 2>exp.log
+[/code]
+
+Eller fra konsoll
+
+[code]admin.addPeer("enode://4055ec69e53df4bfecb95e3b65c28e4f2a1145a3bdc4d85d077b552248cf159951afd649f044783bebf48b902fbc0e96978c76236fd4ab3d5ef7d95d72b84ee5@[::]:42786")
+[/code]
+
+[b]Sjekk om du er koblet til noder[/b]
+
+[code]admin.peers
+[/code]
+
+Du kan også sjekke om du er koblet til noder ved å skrive
+
+[code]admin.nodeInfo[/code]
+
+[b]Skru på graving[/b]
+
+[code]miner.start()
+miner.stop()
+[/code]
+Så fort du har gravd opp en par blokker, sjekk saldoen din slik:
+
+[code]web3.fromWei(exp.getBalance(exp.coinbase))[/code]
+
+Om du har problemer med å finne noder, gi det litt tid før du prøver instruksjonene under
+
+https://github.com/expanse-project/go-expanse/wiki/Connecting-to-the-network
+
+[B]Binere filer[/b]
+https://github.com/expanse-org/gexp-builds
+https://github.com/expanse-project/go-expanse/releases/
+
+[b]Andre binere filer[/b]
+http://www.expanse.tech/downloads/gexp-darwin-x64.tar.gz
+http://www.expanse.tech/downloads/gexp-linux-x86.tar.gz
+http://www.expanse.tech/downloads/gexp-linux-x64.tar.gz
+http://www.expanse.tech/downloads/gexp-android-arm-21.tar.gz
+http://www.expanse.tech/downloads/gexp-windows-x86.zip
+http://www.expanse.tech/downloads/gexp-windows-x64.zip
+http://www.expanse.tech/downloads/gexp-darwin-x86.tar.gz
+http://www.expanse.tech/downloads/expwallet-win.zip
+http://www.expanse.tech/downloads/expwallet-mac.zip
+
+Legg til peers bare for sikkerhets skyld.
+
+
+[code]
+admin.addPeer("enode://f944c6702a78a0cbcd6505b76daff069dad2e45ff88896c475da2bef47091c88e5b4042211233e397ad958be998003a2674151e60719c5fdeeff5f8cc2c231a1@74.196.59.103:42786");
+admin.addPeer("enode://261da6789b8720fc61a17c532022f9ac8d25c82680caeaf3f68f67e723deac190000847f276dfa9e4ac503b6d8c13bd77aae724b263479cafc8808ede0f1deb9@18.97.7.22:42786");
+admin.addPeer("enode://2444ddb2aa1c34d55f9b28a1e2b57f1d6c381250776574432381db6984996a2a05f560f0a751443d5a5df4c608a8dc6acc0bdb19bea5905edf643d2c9b44d159@85.217.235.15:63117");
+admin.addPeer("enode://f3223bf8ea731e569a27318f00f4cc3696ec7d45005604f2731efc21f95028d230671dfc907f44cbed3f7fa0033e1111ffd8f9db1286b3721641d77afd500ade@54.72.197.108:46741");
+admin.addPeer("enode://15a6ddec7c2e7fc67686557975b41c6308525a69c8ce56747d6ae9c7e9dc8910a4624443ffc127001f72f8f8fca4a67d04906e72d725d7b39dbff4454b8b2b28@68.197.12.14:42786");
+admin.addPeer("enode://25b8304b5a7977e5478057e5f60f3a7f0da32702f0e5d0174c84ab2a9fb270fb37ef73aba2c682d4283d617e073fdc61e082d7f277474ea64fde055e17d86814@71.62.31.72:49568");
+[/code]
+
+[url=https://bitcointalk.org/index.php?topic=1173722.msg12412842#msg12412842]For updating information click here[/url]
+
+[b]Official Genesis[/b]
+[code]
+{
+    "nonce": "0x214652414e4b4f21",
+    "timestamp": "0x0",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "extraData": "0x4672616e6b6f497346726565646f6d",
+    "gasLimit": "0x1388",
+    "difficulty": "0x40000000",
+    "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "coinbase": "0x93decab0cd745598860f782ac1e8f046cb99e898",
+    "alloc": {
+        "0xbb94f0ceb32257275b2a7a9c094c13e469b4563e": { "balance": "10000000000000000000000000" },
+        "0x15656715068ab0dbdf0ab00748a8a19e40f28192": { "balance": "1000000000000000000000000"},
+    "0xc075fa11f85bda3aaba67106226aaf086ac16f4e": { "balance": "100000000000000000000000"},
+    "0x93decab0cd745598860f782ac1e8f046cb99e898": { "balance": "10000000000000000000000"}
+    }
+}
+[/code]
+
+[b]Pools Program[/b]
+https://github.com/ocminer/ethcore-pool-mpos
+https://github.com/expanse-org/expanse-proxy
+
+[b]Pools[/b]
+https://exp.suprnova.cc/
+http://exp.maxminers.net/
+http://dwarfpool.com/exp
+http://pooleum.com/
+
+[b]Utveksling[/b]
+https://poloniex.com/exchange#btc_exp
+https://www.bittrex.com/Market/Index?MarketName=BTC-EXP
+https://bleutrade.com/exchange/EXP/BTC
+
+[b]Komandolinje Jukselapp[/b]
+[code]BlokkHøyde == exp.blockNumber
+nodeinfo == admin.nodeInfo
+peers == admin.peers
+LeggTilNode == admin.addPeer("enode://nodekey:ipaddress@port")
+Send overføring == exp.sendTransaction({from:exp.accounts[0], to:"0x…007", value: web3.toWei(1, "expanse")})
+Hent saldo == web3.fromWei(exp.getBalance(exp.coinbase), "expanse")
+Peermengde == net.peerCount
+[/code]
+
+[b]Kjede Statestikk[/b]
+Hvordan bli med i Kjede Statestikk - https://bitcointalk.org/index.php?topic=1173722.msg12427609#msg12427609
+Statestikk - http://stats.expanse.tech/
+BlokkUtforsker - http://www.expanse.tech/explorer
+
+[b]Chat[/b]
+IRC - #expanse freenode
+SLACK - http://slack.expanse.tech/
