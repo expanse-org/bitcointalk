@@ -1,6 +1,6 @@
 [center][img]http://i.imgur.com/aTK3KYV.png[/img]
 
-[size=10pt][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Expanse[/url] er en desentralisert cryptographix informasjo, applikasjon og kontrakt platform. Den er blandt de første av its slag som blir rettferdig distribuert, demokratisk kontrollert, og miljø-administret. Gjennom bruk av smarte kontrakter og desentralisert blokkjede teknologi, den blir ikke drevet av ett individ eller en gruppe, men av brukeren av Expanse selv. Prosjektet er organisert, administert og opperert gjennom en desentralisert organisasjon Som gir direkte påvirkning på platformen og dens fremtid til de som betyr mest: miljøet vårt. Nye funksjoner, integrering og kjerne forandringer/modifiseringer av Expanse platformen og organisasjonen kan bli nominert, stempt på og implementert basert på kollektivets meninger.[/size]
+[size=10pt][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Expanse[/url] er en desentralisert cryptographix informasjon, applikasjon og kontrakt plattform. Den er blant de første av dens slag som blir rettferdig distribuert, demokratisk kontrollert, og miljø-administrert. Gjennom bruk av smarte kontrakter og desentralisert blokkjede teknologi, den blir ikke drevet av ett individ eller en gruppe, men av brukeren av Expanse selv. Prosjektet er organisert, administrert og operert gjennom en desentralisert organisasjon Som gir direkte påvirkning på plattformen og dens fremtid til de som betyr mest: miljøet vårt. Nye funksjoner, integrering og kjerne forandringer/modifiseringer av Expanse plattformen og organisasjonen kan bli nominert, stemt på og implementert basert på kollektivets meninger.[/size]
 [/center]
 
 [center]
@@ -12,10 +12,10 @@
 [li]Algoritme: Dagger[/li]
 [li]Blokk Gevinst: 8[/li]
 [li]Drivstoff Grense: 31415926[/li]
-[li]Blokk Mål: 60 seconds[/li]
+[li]Blokk Mål: 60 sekunder[/li]
 [li]Lytte Port: 42786[/li]
 [li]RPC Port: 9656[/li]
-[li]Reserve: 11 Million (Community Managed)[/li]
+[li]Reserve: 11 Million (Samfunn Administrert)[/li]
 [li][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Whitepaper[/url][/li]
 [/list][/td]
 [/tr]
@@ -43,7 +43,7 @@ den fulle utgivelsen av Expanse.
 [td][center][img]http://i.imgur.com/IIAplvH.png[/img][/center][/td]
 [td]
 Expanse prosjektet drives av en desentralisert organisasjon som
-oppererer på Expanse blokkjeden. Denne desentraliserte enhten
+opererer på Expanse blokkjeden. Denne desentraliserte enheten
 er ansvarlige for store bestemmelser slik som å bestemme hvilke
 funksjoner eller oppdateringer som skal fokuseres av utviklere,
 administrere prosjektets opererende eiendeler/reserve midler, og mer.
@@ -54,21 +54,21 @@ bestemelser omhandlende Expanse.
 [tr][td][/td]
 [td]
 [b]Expanse Utviklings Kjerne[/b]
-Ekspanse Utviklings kjerne er sammensatt av prosjektets
+Expanse Utviklings kjerne er sammensatt av prosjektets
 grunnleggere og kjerne utviklere. Disse individene er 
-talentfulle, kunskapsrike med divers teknisk erfaring
+talentfulle, kunnskapsrike med diverse teknisk erfaring
 relatert til blokkjede teknologi.
 
-[b]Expanse Kolektivt Samfund[/b]
+[b]Expanse Kollektivt Samfunn[/b]
 Expanse samfunnet er sjelen av prosjektet: Folket som
-bruker programmet. Den er laget av de som holder ekspanse.
-Alle hele ekspanse teller som en stemme del. Å holde mindre
+bruker programmet. Den er laget av de som holder Expanse.
+Alle hele Expanse teller som en stemme del. Å holde mindre
 enn 1 Exp teller ikke.
 
 [b]Expanse Rådgiving[/b]
 En tredjepart gruppe sammensatt av individer valgt
 likt fra utviklerkjernen og samfunnet.
-Disse burde være klarert og kjente medlemer av 
+Disse burde være klarert og kjente medlemmer av 
 bitcoin/kryptovalutta samfunnet med lange gode etablerte
 omdømme. Ideelt individer som har en sterk teknisk bakgrunn
 og en forståelse av blokkjede teknologi, som har muligheten
@@ -80,12 +80,12 @@ til å gi en godt informert stemme på teknisk og finanse saker.[/td]
 [/center]
 
 [center][b][u][size=12pt]Expanse Kjerne lag[/size][/u][/b]
-Ekspanse laget består av kvalifiserte, erfarne og professionelle utviklere og industri figurer med lang historie i flere ledende prosjekter, firmaer og samfund relatert til kryptovalutta og blokkjede teknologi.
+Expanse laget består av kvalifiserte, erfarne og profesjonelle utviklere og industri figurer med lang historie i flere ledende prosjekter, firmaer og samfunn relatert til kryptovalutta og blokkjede teknologi.
 [img]http://i.imgur.com/GuxJ59R.png[/img][/center]
 
-[center][b][u]Samfund og Sosialt[/u][/b]
-Expanse er ett samfund basert prosjekt, så den beste måten å delta er å komme og snakke med oss!
-Du kan nå brukere og utviklere av Expanse gjennom flere forskjellige platformer:
+[center][b][u]Samfunn og Sosialt[/u][/b]
+Expanse er ett samfunn basert prosjekt, så den beste måten å delta er å komme og snakke med oss!
+Du kan nå brukere og utviklere av Expanse gjennom flere forskjellige plattformer:
 
 [table][tr]
 [td][center][u]Reddit[/u]
@@ -102,9 +102,9 @@ Du kan nå brukere og utviklere av Expanse gjennom flere forskjellige platformer
 
 [table][tr][td][center][u]IRC[/u]
 Aktive daglige samtaler
-fra expanse samfunnet.
+fra Expanse samfunnet.
 [img]http://i.imgur.com/Rq9FlNH.png[/img]
-#expanse på irc.freenode.net[/center]
+#Expanse på irc.freenode.net[/center]
 [/td][td]           [/td]
 [td][center][u]Slack[/u]
 Det beste stedet å komme i kontakt
@@ -115,34 +115,34 @@ Besøk http://slack.expanse.tech/ for en invitasjon![/center]
 
 [center][img]http://i.imgur.com/991kdwC.png[/img][/center]
 
-Ofte stilte spørsmål: Vi vill oppdatere denne seksjonen en gang i blandt med svar til de vaneligste spørsmålene eller løsninger til de mest vanelige problemene. Denne FAQen er laget for denne tråden spesifikt, så sjekk ut FAQen på nettsiden vår for flere svar til vanelige spørsmål.
+Ofte stilte spørsmål: Vi vill oppdatere denne seksjonen en gang i blant med svar til de vanligste spørsmålene eller løsninger til de mest vanlige problemene. Denne FAQen er laget for denne tråden spesifikt, så sjekk ut FAQen på nettsiden vår for flere svar til vanlige spørsmål.
 
-[b]Q: Hva er forskjellen mellom expanse og lignende prosjekter?[/b]
-A: Den vikitigste forskjellen er att Expanse er ett samfunns rettet prosjekt. Store valg om design valg, operering, utviklings rute, investering og mer blir gjort av brukerne. Expanse har ingen ICO eller gruppesalg, bare en liten reserve som er kontrolert av samfunnet gjennom en desentralisert organisasjon kontrolert gjennom smarte kontrakter. Til forskjell fra andre prosjekter så er fremtiden av Expanse valgt av dens brukere, gravere, handlere og de som bare vil være en del av å forme fremtiden på en rettferdig og desentralisert måte.
+[b]Q: Hva er forskjellen mellom Expanse og lignende prosjekter?[/b]
+A: Den viktigste forskjellen er att Expanse er ett samfunns rettet prosjekt. Store valg om design valg, operering, utviklings rute, investering og mer blir gjort av brukerne. Expanse har ingen ICO eller gruppesalg, bare en liten reserve som er kontrollert av samfunnet gjennom en desentralisert organisasjon kontrollert gjennom smarte kontrakter. Til forskjell fra andre prosjekter så er fremtiden av Expanse valgt av dens brukere, gravere, handlere og de som bare vil være en del av å forme fremtiden på en rettferdig og desentralisert måte.
 
 [b]Q: Når kan jeg laste ned programmet og/eller lese mer dokumentasjon?[/b]
-A: Vi vill kontinuerlig slippe oppdatert dokumentasjon op til og etter vårt offentlige testnettt og hovedslippet. Programmet vill bli tiljengelig for nedlasting på starten av det offentlige testnettet og oppdatert ofte. 
+A: Vi vill kontinuerlig slippe oppdatert dokumentasjon opp til og etter vårt offentlige tetnet og hovedslippet. Programmet vill bli tilgjengelig for nedlasting på starten av det offentlige testnettet og oppdatert ofte. 
 
 [b]Q: Hva er forskjellen mellom offentlig testnett og hoved versjonen?[/b]
-A: Det offentlige testnettet er slik at alle kan installere, forberede seg og teste graving instillinger og klient program på forhånd av Expanse slippen. Dette vill skape en mer rettferdig og gjevnt distribuert start og tillate alle å være fult forberedt til å delta når vi starter. Testnettet er for testing, det kan restartes og testes på, og burde ikke bli sett på som stabilt over lengre tid. Hoved slippen er den faktiske utgivelsen av Expanse, og dette er når brukere og graver kan grave/forhandle ekte Expanse, Lge og utføre smarte kontrakter og lage hele platformer og teknologi.
+A: Det offentlige testnettet er slik at alle kan installere, forberede seg og teste graving innstillinger og klient program på forhånd av Expanse slippen. Dette vill skape en mer rettferdig og jevnt distribuert start og tillate alle å være fult forberedt til å delta når vi starter. Testnettet er for testing, det kan restartes og testes på, og burde ikke bli sett på som stabilt over lengre tid. Hoved slippen er den faktiske utgivelsen av Expanse, og dette er når brukere og graver kan grave/forhandle ekte Expanse, Lage og utføre smarte kontrakter og lage hele plattformer og teknologi.
 
-[b]Q: Kan jeg beholde exp-en min gjennom hoved-utgivelsen?[/b]
-A: Mynter som graves opp under testnettet blir ikke med over til hoved netverket. De kan være stabile på test nettet men test nettet er bare for å teste og vill ofte bli restartet etter diverse test sykler. Disse holder ingen verdi annet enn for testing.
+[b]Q: Kan jeg beholde Exp-en min gjennom hoved-utgivelsen?[/b]
+A: Mynter som graves opp under testnettet blir ikke med over til hoved nettverket. De kan være stabile på test nettet men test nettet er bare for å teste og vill ofte bli restartet etter diverse test sykler. Disse holder ingen verdi annet enn for testing.
 
 [b]Q: Jeg er en entusiast uten teknisk bakgrunn, hvordan kan jeg hjelpe?[/b]
-A: Du kan grave Expanse eller kjøpe expanse på utvekslingssider senere så fort det er tiljengelig. Du kan også fortelle ande om Expanse og prosjektet. Du kan aktivt dele dine meninger og stemme på store valg senere, og til og med annbefale mulige forandringer som du synes prosjektet burde fokusere på. Expanse handler om å høre på alle og være inklusiv, og bytte ett sterkt miljø gjennom rettferdighet og de kombinerte talentene og visjonene til alle de som vill være en del av det.
+A: Du kan grave Expanse eller kjøpe Expanse på utvekslingssider senere så fort det er tilgjengelig. Du kan også fortelle ande om Expanse og prosjektet. Du kan aktivt dele dine meninger og stemme på store valg senere, og til og med anbefale mulige forandringer som du synes prosjektet burde fokusere på. Expanse handler om å høre på alle og være inklusiv, og bytte ett sterkt miljø gjennom rettferdighet og de kombinerte talentene og visjonene til alle de som vill være en del av det.
 
 [b]Q: Jeg er en utvikler, hvordan kan jeg hjelpe?[/b]
-A: Potensialet til Expanse er massiv, men applikasjoner fra dens kraft mangler. Hva trengs mest er DApp og Kontrakt utviklere. Slike tillegg går ikke uten gevinst; Expanse organisasjonen vill gi ut premier og insentiver for å støtte Dapp og kontrakt utviklere. For de som ønsker å delta på det offisielle prosjektet så leter vi etter og vill snart utlyse rettningslinjer i ett dokument for utviklere som ønsker å hjelpe. I mellomtiden kan du delta direkte i #dev kanalen på Expanse slack.
+A: Potensialet til Expanse er massiv, men applikasjoner fra dens kraft mangler. Hva trengs mest er DApp og Kontrakt utviklere. Slike tillegg går ikke uten gevinst; Expanse organisasjonen vill gi ut premier og incentiver for å støtte Dapp og kontrakt utviklere. For de som ønsker å delta på det offisielle prosjektet så leter vi etter og vill snart utlyse retningslinjer i ett dokument for utviklere som ønsker å hjelpe. I mellomtiden kan du delta direkte i #dev kanalen på Expanse slack.
 
 [b]Q: Er det en ICO?[/b]
 A: Det er ingen ICO for for gruppestøtte. 
 
 [b]Q: Hva er reserven? Hvorfor er det en?[/b]
-A: Reserven er satt opp av midler administrert av Expanse organisasjonen. Disse reserve midlene er administrert direkte av den desentraliserte organisasjonen ved å bruke smarte kontrakter som kjører på Expanse. Organisasjonen's midler er låst inn i en kontrakt og gjort gradvis tiljengelig over tid. 10% av miljø reserven (1.1m exp) vill bli distribuert til Kjernen over tid for langtids arbeide og arbeidekostnader, med bare 10% av det totale tiljengelige på utgivelsen for å hjelpe med utvikling og for å betale orginale initiativer. Resten av reserven vill sakte bli distribuert til laget over ett år ved bruk av smarte kontrakter, de resterende 90% skal bli brukt på det Expanse organisasjonen bestemmer sammen.)
+A: Reserven er satt opp av midler administrert av Expanse organisasjonen. Disse reserve midlene er administrert direkte av den desentraliserte organisasjonen ved å bruke smarte kontrakter som kjører på Expanse. Organisasjonen's midler er låst inn i en kontrakt og gjort gradvis tilgjengelig over tid. 10% av miljø reserven (1.1m Exp) vill bli distribuert til Kjernen over tid for langtids arbeide og arbeidekostnader, med bare 10% av det totale tilgjengelige på utgivelsen for å hjelpe med utvikling og for å betale originale initiativer. Resten av reserven vill sakte bli distribuert til laget over ett år ved bruk av smarte kontrakter, de resterende 90% skal bli brukt på det Expanse organisasjonen bestemmer sammen.)
 
 [b]Q: Hvordan vet vi at reserven ikke blir dumpet på en utvekslingsside?[/b]
-A: Den største delen av reserven er kontrollert direkte av expanse organisasjonens desentraliserte enhet, og er låst i smarte kontrakter. All bruk av organisasjonens midler krever en enighet stemt av majoriteten mellom miljøet, utviklere og hjelpere. Det er ikke mulig å selle uten felles enighet. I tilleg så blir middlene distribuert over tid.
+A: Den største delen av reserven er kontrollert direkte av expanse organisasjonens desentraliserte enhet, og er låst i smarte kontrakter. All bruk av organisasjonens midler krever en enighet stemt av majoriteten mellom miljøet, utviklere og hjelpere. Det er ikke mulig å selge uten felles enighet. I tillegg så blir middlene distribuert over tid.
 
 [b][size=20pt]Hovednett instruksjoner[/size][/b]
 [b]Installere deps og make gexp[/b]
@@ -195,11 +195,11 @@ Om du har problemer med å finne noder, gi det litt tid før du prøver instruks
 
 https://github.com/expanse-project/go-expanse/wiki/Connecting-to-the-network
 
-[B]Binere filer[/b]
+[B]Binære filer[/b]
 https://github.com/expanse-org/gexp-builds
 https://github.com/expanse-project/go-expanse/releases/
 
-[b]Andre binere filer[/b]
+[b]Andre binære filer[/b]
 http://www.expanse.tech/downloads/gexp-darwin-x64.tar.gz
 http://www.expanse.tech/downloads/gexp-linux-x86.tar.gz
 http://www.expanse.tech/downloads/gexp-linux-x64.tar.gz
@@ -222,7 +222,7 @@ admin.addPeer("enode://15a6ddec7c2e7fc67686557975b41c6308525a69c8ce56747d6ae9c7e
 admin.addPeer("enode://25b8304b5a7977e5478057e5f60f3a7f0da32702f0e5d0174c84ab2a9fb270fb37ef73aba2c682d4283d617e073fdc61e082d7f277474ea64fde055e17d86814@71.62.31.72:49568");
 [/code]
 
-[url=https://bitcointalk.org/index.php?topic=1173722.msg12412842#msg12412842]For updating information click here[/url]
+[url=https://bitcointalk.org/index.php?topic=1173722.msg12412842#msg12412842] For informasjon om hvordan oppdatere, klikk her.[/url]
 
 [b]Official Genesis[/b]
 [code]
