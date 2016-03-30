@@ -1,6 +1,6 @@
 [center][img]http://i.imgur.com/aTK3KYV.png[/img]
 
-[size=10pt][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Expanse[/url] er en desentralisert cryptographix informasjon, applikasjon og kontrakt plattform. Den er blant de første av dens slag som blir rettferdig distribuert, demokratisk kontrollert, og miljø-administrert. Gjennom bruk av smarte kontrakter og desentralisert blokkjede teknologi, den blir ikke drevet av ett individ eller en gruppe, men av brukeren av Expanse selv. Prosjektet er organisert, administrert og operert gjennom en desentralisert organisasjon Som gir direkte påvirkning på plattformen og dens fremtid til de som betyr mest: miljøet vårt. Nye funksjoner, integrering og kjerne forandringer/modifiseringer av Expanse plattformen og organisasjonen kan bli nominert, stemt på og implementert basert på kollektivets meninger.[/size]
+[size=10pt][url=https://docs.google.com/document/d/1ITNRmZ0dTse-aZqjbWiC9w1n2XpPvKyl4J9BP-liuxw/edit?usp=sharing]Expanse[/url] er en desentralisert cryptografisk informasjon, applikasjon og kontrakt plattform. Den er blant de første av dens slag som blir rettferdig distribuert, demokratisk kontrollert, og miljø-administrert. Alt dette skjer gjennom bruk av smarte kontrakter og desentralisert blokkjede teknologi. Den blir ikke drevet av ett individ eller en gruppe, men av brukeren av Expanse selv. Prosjektet er organisert, administrert og operert gjennom en desentralisert organisasjon som gir direkte påvirkning på plattformen og dens fremtid til de som betyr mest: miljøet vårt. Nye funksjoner, integrering og kjerne forandringer/modifiseringer av Expanse plattformen og organisasjonen kan bli nominert, stemt på og implementert basert på kollektivets meninger.[/size]
 [/center]
 
 [center]
@@ -27,10 +27,10 @@
 
 Vi kommer til å holde en offentlig testnett start den 10/9/2015.
 Målet med denne testen er å tillate brukere å komfortabelt
-installere, konfigurere, og teste programmet, forberede 
-gravere, og bli kjent med Expanse. Vi vill
+installere, konfigurere, og teste programmet.
+De kan forberede gravere, og bli kjent med Expanse. Vi vill
 at alle skal ha en rettferdig start og ha muligheten
-til å grave Expanse fra starten. Dette er kun for testing
+til å grave opp Expanse fra starten. Testnettet er kun for testing
 og alt som graves opp på testnettet forsvinner når vi slipper
 det fulle programmet.
 
@@ -56,7 +56,7 @@ bestemelser omhandlende Expanse.
 [b]Expanse Utviklings Kjerne[/b]
 Expanse Utviklings kjerne er sammensatt av prosjektets
 grunnleggere og kjerne utviklere. Disse individene er 
-talentfulle, kunnskapsrike med diverse teknisk erfaring
+talentfulle og kunnskapsrike med diverse tekniske erfaringer
 relatert til blokkjede teknologi.
 
 [b]Expanse Kollektivt Samfunn[/b]
@@ -97,7 +97,7 @@ Du kan nå brukere og utviklere av Expanse gjennom flere forskjellige plattforme
 [td][center][u]Twitter[/u]
 [img]http://i.imgur.com/2DjHrEc.png[/img]
 [/center][/td]
-[/tr][tr][td][url=http://www.reddit.com/r/expanseofficial]/r/expanseofficial[/url][/td][td]             [url=http://www.facebook.com/groups/expanseofficial]groups/expanseofficial[/url]         [/td][td][url=http://www.twitter.com/expanseofficial]twitter.com/expanseofficial[/url][/td][/tr]
+[/tr][tr][td][url=http://www.reddit.com/r/expanseofficial]/r/expanseofficial[/url][/td][td]             [url=http://www.facebook.com/groups/expanseofficial]groups/expanseofficial[/url]         [/td][td][url=http://www.twitter.com/expanseofficial]twitter.com/expanseofficial[/url][/td][/tr]
 [/table]
 
 [table][tr][td][center][u]IRC[/u]
@@ -105,7 +105,7 @@ Aktive daglige samtaler
 fra Expanse samfunnet.
 [img]http://i.imgur.com/Rq9FlNH.png[/img]
 #Expanse på irc.freenode.net[/center]
-[/td][td]           [/td]
+[/td][td]           [/td]
 [td][center][u]Slack[/u]
 Det beste stedet å komme i kontakt
 med Expanse samfunnet er på slacken vår!
@@ -151,7 +151,7 @@ A: Den største delen av reserven er kontrollert direkte av expanse organisasjon
 bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
 gvm install go1.4
 gvm use go1.4 --default
-git clone -b develop http://www.github.com/expanse-project/go-expanse.git  
+git clone -b develop http://www.github.com/expanse-project/go-expanse.git  
 cd go-expanse
 make gexp[/code]
 
@@ -227,20 +227,20 @@ admin.addPeer("enode://25b8304b5a7977e5478057e5f60f3a7f0da32702f0e5d0174c84ab2a9
 [b]Official Genesis[/b]
 [code]
 {
-    "nonce": "0x214652414e4b4f21",
-    "timestamp": "0x0",
-    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "extraData": "0x4672616e6b6f497346726565646f6d",
-    "gasLimit": "0x1388",
-    "difficulty": "0x40000000",
-    "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-    "coinbase": "0x93decab0cd745598860f782ac1e8f046cb99e898",
-    "alloc": {
-        "0xbb94f0ceb32257275b2a7a9c094c13e469b4563e": { "balance": "10000000000000000000000000" },
-        "0x15656715068ab0dbdf0ab00748a8a19e40f28192": { "balance": "1000000000000000000000000"},
-    "0xc075fa11f85bda3aaba67106226aaf086ac16f4e": { "balance": "100000000000000000000000"},
-    "0x93decab0cd745598860f782ac1e8f046cb99e898": { "balance": "10000000000000000000000"}
-    }
+    "nonce": "0x214652414e4b4f21",
+    "timestamp": "0x0",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "extraData": "0x4672616e6b6f497346726565646f6d",
+    "gasLimit": "0x1388",
+    "difficulty": "0x40000000",
+    "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "coinbase": "0x93decab0cd745598860f782ac1e8f046cb99e898",
+    "alloc": {
+        "0xbb94f0ceb32257275b2a7a9c094c13e469b4563e": { "balance": "10000000000000000000000000" },
+        "0x15656715068ab0dbdf0ab00748a8a19e40f28192": { "balance": "1000000000000000000000000"},
+    "0xc075fa11f85bda3aaba67106226aaf086ac16f4e": { "balance": "100000000000000000000000"},
+    "0x93decab0cd745598860f782ac1e8f046cb99e898": { "balance": "10000000000000000000000"}
+    }
 }
 [/code]
 
